@@ -26,6 +26,8 @@ Lab 10 part 1 was a favorite of mine because it was something that I could actua
 
 ###### Repo Link: [https://github.com/thomasn1003/Pong-Game.git](https://github.com/thomasn1003/Pong-Game.git)
 
+Above is my remake of the classic arcade game Pong from 1972. It was coded in Java on the Eclipse IDE. This was one of my first Java projects that was targeted on remaking a game. 
+
 
 ### Snake Game
 
@@ -33,9 +35,13 @@ Lab 10 part 1 was a favorite of mine because it was something that I could actua
 
 ###### Repo Link: [https://github.com/thomasn1003/Snake-Game.git](https://github.com/thomasn1003/Snake-Game.git)
 
+This project is a remake of the very popular arcade game Snake. It is coded in Java on the Eclipse IDE.
+
 
 ### Space Invader Game
 
 #### Spring 2022
 
 ###### Repo Link: [https://github.com/thomasn1003/Space-Invaders.git](https://github.com/thomasn1003/Space-Invaders.git)
+
+This project is my remake of the 1978 arcade game Space Invaders. It is coded in Java on the Eclipse IDE. This project was one of my favorite projects to make and I but hours into this personal project to make it more fun. 
