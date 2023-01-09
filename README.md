@@ -31,11 +31,11 @@ Lab 10 part 1 was a favorite of mine because it was something that I could actua
 
 #### Spring 2022
 
-###### Repo Link:
+###### Repo Link: https://github.com/thomasn1003/Snake-Game.git
 
 
 ### Space Invader Game
 
 #### Spring 2022
 
-###### Repo Link: 
+###### Repo Link: https://github.com/thomasn1003/Space-Invaders.git
