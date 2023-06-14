@@ -1,5 +1,5 @@
-# Portfolio
-This is my home page! My name is Thomas Nguyen and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. These are some of my projects that I have worked on. If you have any questions or inquiries contact me at thomas1003nguyen@gmail.com
+# Welcome 👋, I am Thomas Nguyen.
+I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. These are some of my projects that I have worked on. If you have any questions or inquiries contact me at thomas1003nguyen@gmail.com
 
 ## Academic Projects
 My GitHub page is [http://github.com/thomasn1003](http://github.com/thomasn1003).
